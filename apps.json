@@ -1,0 +1,16 @@
+{
+  "photocraft":  { "version": "0.10.0", "srcHash": "", "cargoHash": "", "debHash": "" },
+  "vectorcraft": { "version": "0.13.1", "srcHash": "", "cargoHash": "", "debHash": "" },
+  "filmcraft":   { "version": "0.9.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
+  "lightcraft":  { "version": "0.9.1",  "srcHash": "", "cargoHash": "", "debHash": "" },
+  "pdfcraft":    { "version": "0.9.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
+  "effectcraft": { "version": "0.11.1", "srcHash": "", "cargoHash": "", "debHash": "" },
+  "designcraft": { "version": "0.9.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
+  "wordcraft":   { "version": "0.8.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
+  "soundcraft":  { "version": "0.8.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
+  "deckcraft":   { "version": "0.8.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
+  "cadcraft":    { "version": "0.8.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
+  "gridcraft":   { "version": "0.8.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
+  "figcraft":    { "version": "0.7.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
+  "artcraft-launcher": { "repo": "craft-launcher", "pname": "artcraft-launcher", "version": "0.5.1", "srcHash": "", "cargoHash": "", "debHash": "" }
+}
