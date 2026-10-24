@@ -14,15 +14,20 @@
     let
       system = "x86_64-linux";
       pkgs = nixpkgs.legacyPackages.${system};
-      mk = import ./lib.nix { inherit pkgs; };
       apps = builtins.fromJSON (builtins.readFile ./apps.json);
-      per = name: a: {
-        "${name}-src" = mk.src name a;
-        "${name}-deb" = mk.deb name a;
-        "${name}" = mk.deb name a;
-      };
+
+      mkPackages = p:
+        let
+          mk = import ./lib.nix { pkgs = p; };
+          per = name: a: {
+            "${name}-src" = mk.src name a;
+            "${name}-deb" = mk.deb name a;
+            "${name}" = mk.deb name a;
+          };
+        in
+        p.lib.foldl' (acc: n: acc // per n apps.${n}) { } (builtins.attrNames apps);
     in {
-      packages.${system} =
-        pkgs.lib.foldl' (acc: n: acc // per n apps.${n}) { } (builtins.attrNames apps);
+      packages.${system} = mkPackages pkgs;
+      overlays.default = final: prev: { artcraft = mkPackages final; };
     };
 }
