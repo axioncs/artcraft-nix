@@ -1,16 +1,88 @@
 {
-  "photocraft":  { "version": "0.10.0", "srcHash": "", "cargoHash": "", "debHash": "" },
-  "vectorcraft": { "version": "0.13.1", "srcHash": "", "cargoHash": "", "debHash": "" },
-  "filmcraft":   { "version": "0.9.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
-  "lightcraft":  { "version": "0.9.1",  "srcHash": "", "cargoHash": "", "debHash": "" },
-  "pdfcraft":    { "version": "0.9.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
-  "effectcraft": { "version": "0.11.1", "srcHash": "", "cargoHash": "", "debHash": "" },
-  "designcraft": { "version": "0.9.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
-  "wordcraft":   { "version": "0.8.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
-  "soundcraft":  { "version": "0.8.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
-  "deckcraft":   { "version": "0.8.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
-  "cadcraft":    { "version": "0.8.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
-  "gridcraft":   { "version": "0.8.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
-  "figcraft":    { "version": "0.7.0",  "srcHash": "", "cargoHash": "", "debHash": "" },
-  "artcraft-launcher": { "repo": "craft-launcher", "pname": "artcraft-launcher", "version": "0.5.1", "srcHash": "", "cargoHash": "", "debHash": "" }
+  "photocraft": {
+    "version": "0.10.0",
+    "srcHash": "sha256-asFS+pfcFBD5sNm6AMOnCaPVVluXvN2TBW5jeFFPpEQ=",
+    "cargoHash": "",
+    "debHash": "sha256-ijB334WE+/rP2SwKOZo4gf8GVatdzu7XiIueeO9F5Wo="
+  },
+  "vectorcraft": {
+    "version": "0.13.1",
+    "srcHash": "sha256-6fnvggL1zSNnO2w32zKpgtE2bv/4SWs//uAEDR+UFIo=",
+    "cargoHash": "",
+    "debHash": "sha256-nj9Wpkhp/eViO1D0Q+Ry35IRPVqZUlJAXPqazLgJzfw="
+  },
+  "filmcraft": {
+    "version": "0.9.0",
+    "srcHash": "sha256-GQHgXZwEQcBfCZMxZMfPmoKXZvS9PwX99/Mq7aq34n8=",
+    "cargoHash": "",
+    "debHash": "sha256-j/R1szmJ1KdZ7Ll07MgnkrAdOjgKTdOjzCNCxhrV1Js="
+  },
+  "lightcraft": {
+    "version": "0.9.1",
+    "srcHash": "sha256-zjud9GW1oTGlL2IA4dNH5LKmYAqAU9EyPIvTryW19RM=",
+    "cargoHash": "",
+    "debHash": "sha256-FVh9stuX37Xuk2F2QVdmR8Y2DdVRXIK1GO0zFpJiObc="
+  },
+  "pdfcraft": {
+    "version": "0.9.0",
+    "srcHash": "sha256-pOHCv3K6XfRci1kWhta1gmTZGklSpBJqjLIXvqKq484=",
+    "cargoHash": "",
+    "debHash": "sha256-L/VKnENzSgGOcEIviYZk3xCPyZ96cUdcp+B84bjwriQ="
+  },
+  "effectcraft": {
+    "version": "0.11.1",
+    "srcHash": "sha256-Tck0XVne5B5mdnRzN50zrG/gCa5tE56TOyFi9ieSPEE=",
+    "cargoHash": "",
+    "debHash": "sha256-bhL9PGgHd5g7c8yEyjtFix2tbzb0NFEfCvLOpVAxdqA="
+  },
+  "designcraft": {
+    "version": "0.9.0",
+    "srcHash": "sha256-IL5kXdkFG1CiIuh3dWTphFu5EPHeSrg2eQ8N9dFNqkQ=",
+    "cargoHash": "",
+    "debHash": "sha256-zymKwXXYKQj14py0CHq8qTs8lkJl5d/tgLxiEa8Puy0="
+  },
+  "wordcraft": {
+    "version": "0.8.0",
+    "srcHash": "sha256-5zT+XjveKuuqaSsJnKZjerai0TaBO6s7LhrWKrvNcSU=",
+    "cargoHash": "",
+    "debHash": "sha256-MAztLg7gGiutMwLGx++1CG1a3OcafPaBlfYcNkm0a/8="
+  },
+  "soundcraft": {
+    "version": "0.8.0",
+    "srcHash": "sha256-SI58vpqyig1J1l81rqNRrIEhAgpE/mq/nSOjUxn8910=",
+    "cargoHash": "",
+    "debHash": "sha256-2Cz9A7Db11Ebrre4303guMVAEwPjg7jz9uAo65TROlE="
+  },
+  "deckcraft": {
+    "version": "0.8.0",
+    "srcHash": "sha256-kO8YBFzyip+NJmH2eFGGOB7OCOZWUhIGvEuxBzSemgk=",
+    "cargoHash": "",
+    "debHash": "sha256-Pb6JRFy7mX+h4PpCV+eMFc4OEYY34pO7PRHrwgWoD5w="
+  },
+  "cadcraft": {
+    "version": "0.8.0",
+    "srcHash": "sha256-kJQAgQ9ebzSW2V4/pK2HxRuLLQfvZJ16miJshbYo0TU=",
+    "cargoHash": "",
+    "debHash": "sha256-TqVXHkYQ+h3vqCRcTkobu55N9OBb64RpSGJnMKs+Nws="
+  },
+  "gridcraft": {
+    "version": "0.8.0",
+    "srcHash": "sha256-G0xsNWRoNMtA5lTKSZgLCHP6gcq+zOaOPdcColuFr0A=",
+    "cargoHash": "",
+    "debHash": "sha256-G7VY34iQgh4GHpma9p0rqbMhwH0ykBq2gZpLQorZpH0="
+  },
+  "figcraft": {
+    "version": "0.7.0",
+    "srcHash": "sha256-0K9K3EEe/HKpufzW8ym9NUwsNpioUvPUxV9rxpoJU2Q=",
+    "cargoHash": "",
+    "debHash": "sha256-fzfsHNszd3JLeaaDUdwQMB6Yy3XftQTmGZURW8y/ozA="
+  },
+  "artcraft-launcher": {
+    "repo": "craft-launcher",
+    "pname": "artcraft-launcher",
+    "version": "0.5.1",
+    "srcHash": "sha256-xQRoA+69YtwJSNH6Jrm7UYBwyJWjQ2QUclY82lfvUaE=",
+    "cargoHash": "",
+    "debHash": "sha256-Qw+1TDxrVP6csh0aeqnJ8HvkTNyzv+b7GZ+yZjp3CZM="
+  }
 }
