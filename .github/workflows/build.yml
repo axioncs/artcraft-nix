@@ -1,18 +1,32 @@
-name: update-and-build
+name: build
 on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
   push:
     branches: [main]
+    paths:
+      - apps.json
+      - lib.nix
+      - flake.nix
+      - flake.lock
+      - .github/workflows/build.yml
+  workflow_dispatch:
 concurrency:
-  group: update-and-build
-  cancel-in-progress: false
-permissions:
-  contents: write
+  group: build
+  cancel-in-progress: true
 jobs:
-  run:
-    runs-on: ubuntu-latest
+  deb:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: cachix/install-nix-action@v31
+        with:
+          extra_nix_config: experimental-features = nix-command flakes
+      - name: Build -deb packages
+        run: |
+          jq -r 'keys[] | ".#" + . + "-deb"' apps.json \
+            | xargs nix build --no-link --keep-going -L
+  src:
+    runs-on: ubuntu-24.04
     timeout-minutes: 360
     steps:
       - uses: actions/checkout@v4
@@ -23,18 +37,7 @@ jobs:
         with:
           name: artcraft-nix
           authToken: ${{ secrets.CACHIX_AUTH_TOKEN }}
-      - name: Update versions and hashes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: nix run nixpkgs#fish -- update.fish
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add apps.json
-          git diff --cached --quiet || { git commit -m "update apps" && git push; }
       - name: Build -src packages
         run: |
-          nix eval --json .#packages.x86_64-linux --apply builtins.attrNames \
-            | jq -r '.[] | select(endswith("-src")) | ".#" + .' \
+          jq -r 'to_entries[] | select(.value.ciSkip != true) | ".#" + .key + "-src"' apps.json \
             | xargs nix build --no-link --keep-going -L

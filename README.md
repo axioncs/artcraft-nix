@@ -160,6 +160,7 @@ Versions are recorded in `apps.json`, so a flake lock pins exact app versions an
 
 - `x86_64-linux` only.
 - Not affiliated with ArtCraft or storytold.
+- `pdfcraft-src` currently fails to build (rustc/LLVM intrinsic mismatch in `rten-gemm`). Use `pdfcraft-deb`.
 
 ## License
 

@@ -27,7 +27,8 @@
     "version": "0.13.0",
     "srcHash": "sha256-DS2jfwzH3LtvEhlxcoSywyDDenvH2N9DkdDVzEP6QdQ=",
     "cargoHash": "sha256-w56jGzgk82D67vH3z0aUL49iGMtl9oYQVmgwVZ4EkLc=",
-    "debHash": "sha256-T1EuuTbjdXzamNXl5Bt7/l4L5+toUPWgAEvjDWBuZ3Q="
+    "debHash": "sha256-T1EuuTbjdXzamNXl5Bt7/l4L5+toUPWgAEvjDWBuZ3Q=",
+    "ciSkip": true
   },
   "effectcraft": {
     "version": "0.16.0",
