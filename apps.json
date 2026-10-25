@@ -77,13 +77,5 @@
     "srcHash": "sha256-GTcEYs6BUqcA3AhXph1uZM78Z1N2FgljW1X5oaoim7I=",
     "cargoHash": "sha256-/ovHS9Psoaonak7k3BGo2PPeH441Tec9WE047pzHoGA=",
     "debHash": "sha256-7ZkUc7J5Xn7ocDCMA8NHcJDGKf8Da8MQLJq0W6XbQ/k="
-  },
-  "artcraft-launcher": {
-    "repo": "craft-launcher",
-    "pname": "artcraft-launcher",
-    "version": "0.7.0",
-    "srcHash": "sha256-3EyhkFTbQVB/iZNSOaE1v/H6uy5gIB1nGijZkV/DYvg=",
-    "cargoHash": "sha256-chNcOcUAez6cR/0Mlncqnttl9MfS0u0t4rTW5Z/2Rqs=",
-    "debHash": "sha256-Vjb9kbNrHubvCNaz47xWgHj/IiCqqtRZATzuLjzhMs4="
   }
 }

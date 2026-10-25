@@ -1,6 +1,6 @@
 # artcraft-nix
 
-Unofficial Nix packaging for the [ArtCraft](https://getartcraft.com/apps) Crafting Apps and the ArtCraft Launcher. Upstream: <https://github.com/storytold>.
+Unofficial Nix packaging for the [ArtCraft](https://getartcraft.com/apps) Crafting Apps. Upstream: <https://github.com/storytold>.
 
 The apps are early-stage (alpha) software. Expect bugs and missing features.
 
@@ -22,7 +22,7 @@ The apps are early-stage (alpha) software. Expect bugs and missing features.
 
 ## Packages
 
-Apps: `photocraft`, `vectorcraft`, `filmcraft`, `lightcraft`, `pdfcraft`, `effectcraft`, `designcraft`, `wordcraft`, `soundcraft`, `deckcraft`, `cadcraft`, `gridcraft`, `figcraft`, `artcraft-launcher`.
+Apps: `photocraft`, `vectorcraft`, `filmcraft`, `lightcraft`, `pdfcraft`, `effectcraft`, `designcraft`, `wordcraft`, `soundcraft`, `deckcraft`, `cadcraft`, `gridcraft`, `figcraft`.
 
 Every app `<name>` provides three outputs:
 
