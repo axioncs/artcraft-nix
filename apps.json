@@ -24,10 +24,10 @@
     "debHash": "sha256-BQREpfa4MO47sNUNgRJND+W6YuChvKGuLJ8mzp4Dj+I="
   },
   "pdfcraft": {
-    "version": "0.18.0",
-    "srcHash": "sha256-agLr61nG0/s786ZYj2AS2uw8hhH7a20TcCEjedHyygk=",
-    "cargoHash": "sha256-fE6KX6KMyc22kdiJiqJLnCnVXTxHNWlhtEf/0vqCf88=",
-    "debHash": "sha256-JcbTGGk/ZZE/4RAggrm2A1S1t/UDrXieTW7x/FButcU=",
+    "version": "0.18.1",
+    "srcHash": "sha256-WlLB9Mz/ZLNMePFuojQbaQ8o3W3Lt13bxdHUNSKGBtE=",
+    "cargoHash": "sha256-c3kX7b5m0kDeJOOqxKjI3D2Cq+pW1eT/p+YzYFa2N7g=",
+    "debHash": "sha256-Q+8DT78/LFF470h5htNMA8RHv16MrisQDGWW8KRJBfQ=",
     "ciSkip": true
   },
   "effectcraft": {
@@ -43,10 +43,10 @@
     "debHash": "sha256-3CBOxMk3GKK3rDpraRJ7YfWPh9n1lH9kodQJMeFAe1o="
   },
   "wordcraft": {
-    "version": "0.15.0",
-    "srcHash": "sha256-AZJphQEBCkJiqAo2qus5R/LL6qTyiDODNU9yfVt8gUE=",
-    "cargoHash": "sha256-nc/Vr2dQoCPDN6ItYh0aseWNE8ABwSWWDeyOcJ0Gxig=",
-    "debHash": "sha256-m5fUik53WhCWLyT2/OXoBIuOWKtFMVA7bwGutjTrKfA="
+    "version": "0.15.1",
+    "srcHash": "sha256-X3WqjvGaEnqE05TyQJDVFNexiCSUhJiZkepOKzlwbvo=",
+    "cargoHash": "sha256-fN1VrRRXBEZNgbkv4AJTupJXZFSFNMRuateiO7AAOgk=",
+    "debHash": "sha256-fDQJgqt7g3Y7JTQvxAQycy626uylvkrVNJaCVDZynY8="
   },
   "soundcraft": {
     "version": "0.17.0",
