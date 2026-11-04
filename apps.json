@@ -37,10 +37,10 @@
     "debHash": "sha256-bYbXxczZS7Lr0avRPPXG4rH19+vYir/pxltnEFmH7Hc="
   },
   "designcraft": {
-    "version": "0.17.0",
-    "srcHash": "sha256-7yyNVvZFO4F1SmDhpFytxM3BoPNA4uOLY0ldP5Ic2mE=",
-    "cargoHash": "sha256-Ur5EhZEE0VTQsXKgeWqqXMKF70cl4/jkPcFlsa28APE=",
-    "debHash": "sha256-3CBOxMk3GKK3rDpraRJ7YfWPh9n1lH9kodQJMeFAe1o="
+    "version": "0.17.1",
+    "srcHash": "sha256-OjnUWd+ZVB1/4mO8Bx0UvdEM5fNyYI8bU/1gWMYLZwQ=",
+    "cargoHash": "sha256-k0iPJ012LWx5qCDgcFR2DXUrcyn2pFTuYnuTxoSkYso=",
+    "debHash": "sha256-3KLXiQkNzaYqLUBM04s3Qwvsl3Gm0Mxi9IVmEOKUCPk="
   },
   "wordcraft": {
     "version": "0.15.1",
