@@ -31,10 +31,10 @@
     "ciSkip": true
   },
   "effectcraft": {
-    "version": "0.23.0",
-    "srcHash": "sha256-n/2giRpLQaYpcdEJJRyxo6CNTPyYQDURiaawVhKl8fc=",
-    "cargoHash": "sha256-0OtMFYXS/sRnDhFfsMcObWsgpG2yCJP3f6Cm3M3RcoA=",
-    "debHash": "sha256-FtcmKZYFygCxJYfHzTvOyg+15ODFUzZwVgoe653izpE="
+    "version": "0.23.1",
+    "srcHash": "sha256-kFizeWBOTDc0/2KYpxdCMS4fmhpED8se4hdF49Dr9KI=",
+    "cargoHash": "sha256-nDfuFsuA1Z8DTPFq2BBREwNWnLTAFJt/qcK8nmRsfUc=",
+    "debHash": "sha256-nO9qxXzj00Q3diiGaWoDEVjwpfSRIL2Q8aucXU2RwtI="
   },
   "designcraft": {
     "version": "0.19.0",
