@@ -1,81 +1,81 @@
 {
   "photocraft": {
-    "version": "0.22.0",
-    "srcHash": "sha256-MiFfQFRWdlW1F3rdTtNaDkcLXJbRj7teGac5+/AAiSs=",
-    "cargoHash": "sha256-6fNECf/SmFNCK0qO7o61tsCsAo89ZVidZv0w1FcbPZI=",
-    "debHash": "sha256-2cJy+w8mZ+sb015gGlVB0Q9NrpPjqbcBZdmz3UPCgL8="
+    "version": "0.23.0",
+    "srcHash": "sha256-O42YlaRn6Y5TapJSnLaLdOYIn5fBWxo8GfL5Fbr2aes=",
+    "cargoHash": "sha256-bTzVnc0PrWHp8j3Hs1OeykMW6Gzp4H5uAIrP6jgB9pA=",
+    "debHash": "sha256-8jyPnnHsmRcC9ihvMCWlM2DyALbIWiGe+42E6vPB1sE="
   },
   "vectorcraft": {
-    "version": "0.23.0",
-    "srcHash": "sha256-JDUneS7md/q2ZLKqSuKILuIHGUOXyDuuWoGgDQyW510=",
-    "cargoHash": "sha256-tDdES5pjOLASkVDeIxcM4voURybuDpFfwTvBPmrhCCo=",
-    "debHash": "sha256-2AkXcIdrQVLIf1aWz5Vpj+TnA/5KZlH6lp88YbV9UHw="
+    "version": "0.24.0",
+    "srcHash": "sha256-FRby9AAQyG3N6irSeGaASE/2Yz6t3umA+Pjy+p2d0sc=",
+    "cargoHash": "sha256-4FBO4PrCChpdG/HuVaJmRV532cossFzfa3dWMFhmQqk=",
+    "debHash": "sha256-CM5aF6dhy5MnBWunZjwLGpYG2MzpmWCBwIEwsZR3shg="
   },
   "filmcraft": {
-    "version": "0.19.0",
-    "srcHash": "sha256-w3wMdhmrcVUKt4gdxnYyZVz1rvAnehKxhWorRTwkIMY=",
-    "cargoHash": "sha256-tgc0xjxV5fSuH9FEMQ1Ndbql1xlZacEZa6WjkgDfBu4=",
-    "debHash": "sha256-3cxbJckIYlVf03vlF6Rcvsxb2KPs0XSewhQa/p6amls="
+    "version": "0.20.0",
+    "srcHash": "sha256-YOiSgxmFo+qU52R8OfbqCzijWcJ1QgwemCm/CBHICC0=",
+    "cargoHash": "sha256-c7r8r6nWWsD0wpAciv65YqCluQP2DS9+TCXLJ7ZLvtQ=",
+    "debHash": "sha256-XCoMgXaez1TbXp0RiG6LoI1wW5vDqMue3k0jlVshqoU="
   },
   "lightcraft": {
-    "version": "0.20.0",
-    "srcHash": "sha256-3Yi52TE4/XyoBDmDI5SoHtwnSsG7g7nTj+bkgq2eoZY=",
-    "cargoHash": "sha256-wJDQAu5+nbqCsIqv1JLcUKvY8UwQbmPde4PUZpzkRtA=",
-    "debHash": "sha256-v6HYEiCL/ltF1BGhyCUPc3TmUTe3ptX99oW8s52DiLo="
+    "version": "0.21.0",
+    "srcHash": "sha256-xnn5ODbe7alQZepLMCJ9oaKAwdJdOamytRpurQlvY0s=",
+    "cargoHash": "sha256-DBNghmD8BG+B3hVpO3B6mUcY9zSPfZadGIoHCw8k8Kw=",
+    "debHash": "sha256-B+RiYP3RCfcy0KDbtT8BjPkD8RqZ/WpNhPBCck6+RyU="
   },
   "pdfcraft": {
-    "version": "0.20.0",
-    "srcHash": "sha256-jaWcKhwOLygHFawczt/zkf4ypaVfdB2jV88DfhcqDxM=",
-    "cargoHash": "sha256-krSzN9lwsEADMm+qqM9Ah2DM3LItAg5G2u/CX/iPnvw=",
-    "debHash": "sha256-Nm4jT/iM77I9u0lXnj3lkhHJEYQXFeiy060HMi6d+gQ=",
+    "version": "0.21.0",
+    "srcHash": "sha256-8bePrYeFL3J1JEp5Mpbe88l6K5W8AHdB8tb6F+u3h3I=",
+    "cargoHash": "sha256-2gfnel9CQJ7a9OV7XTC/AJ0yJtOPv4g+P7UEbKcU02Q=",
+    "debHash": "sha256-yD93B2hnxmsZ6QslraCoEGaFbPzPNUXClitnLZnVwOk=",
     "ciSkip": true
   },
   "effectcraft": {
-    "version": "0.23.1",
-    "srcHash": "sha256-kFizeWBOTDc0/2KYpxdCMS4fmhpED8se4hdF49Dr9KI=",
-    "cargoHash": "sha256-nDfuFsuA1Z8DTPFq2BBREwNWnLTAFJt/qcK8nmRsfUc=",
-    "debHash": "sha256-nO9qxXzj00Q3diiGaWoDEVjwpfSRIL2Q8aucXU2RwtI="
+    "version": "0.24.1",
+    "srcHash": "sha256-dtqPop1xmtd/duzJt02QCZj5zrtVtyvUI8hj4TbeSkc=",
+    "cargoHash": "sha256-TyxQTE247lH2Q1vUJQZudrYSHx7DS+DF5ZfbUUpB/XI=",
+    "debHash": "sha256-cx8eN6qHLDWmrM+rn6mKFmdNtfmliOtogE4AakQvvVk="
   },
   "designcraft": {
-    "version": "0.19.0",
-    "srcHash": "sha256-J0WD/H3GMu6GhQt/rS6heXdN5UTqw23YJ5eX4PPlQ4I=",
-    "cargoHash": "sha256-bjHUt7UHwaI3tmq0QpWRObrG9nAk7WHDxzsC0d2Xwns=",
-    "debHash": "sha256-a/bb9krK8K7Leo8ZOyHGaGeA7EfYO+IpZU0G1GAR3+c="
+    "version": "0.20.1",
+    "srcHash": "sha256-rsQfF66CymQ46Ty+RG76A46d6mD8HcMHCOH9EE6sog4=",
+    "cargoHash": "sha256-BmlQ/G1pBW34W13sTz8jPi/kbzrtB5ZcTyrNOXgpidE=",
+    "debHash": "sha256-pLUM7/0zoT0tUuAVMPbeMjbVCtoCp88MiUbeMZUFew8="
   },
   "wordcraft": {
-    "version": "0.17.0",
-    "srcHash": "sha256-ekPLNxXmdwweyWmrmgHWpXexECPCGQc7+/Gfi5LcnpU=",
-    "cargoHash": "sha256-M5yw2CjdaY2mAlCxIpzmceBnZtOJDwx9i0cIEXEZRTY=",
-    "debHash": "sha256-J2EFare6mqXtSb9W+5jfYIF2dob/cOXBw+eaDFRZHPs="
+    "version": "0.18.1",
+    "srcHash": "sha256-n8BQIiX6C3D8pd8pil/reM/ffSW+cPEsI/OuQSUrYus=",
+    "cargoHash": "sha256-gsiSbjdpjKKtWfYr2xcyLiGWamy7qGGSKOraRvnaVAM=",
+    "debHash": "sha256-m1VxYd7XtZcxEsjCH2AP4LARDBpNMVEYRIVzPJb4fhk="
   },
   "soundcraft": {
-    "version": "0.19.0",
-    "srcHash": "sha256-alBwO6cTtBHjLZmcR+qu/7Mtx+cn5NHvN+kHhnT5nTM=",
-    "cargoHash": "sha256-kOa0ew31v5F6a/gyaHXWYjVKvMhJ87oD2TrXvysVZGY=",
-    "debHash": "sha256-hxPKRqUVj3cbe7CPAPRFxQbqmmksqP7b/ACIv6sbDI4="
+    "version": "0.20.0",
+    "srcHash": "sha256-NpJHGXWSXmrgz8Qlw7LPifnLvA8oimUnIEbByhGj+8g=",
+    "cargoHash": "sha256-4gjWRwAGpiHFO+rbLwLpgCjTNIF5TlLIePCjP/kWaEg=",
+    "debHash": "sha256-qw9IcA2Z2veYvyUoHVMklD45q/VNhB2gRF/pI+TIqsk="
   },
   "deckcraft": {
-    "version": "0.17.0",
-    "srcHash": "sha256-C2rXOAQVTlHUWv/8VctowVyKKETZHc7S/vyAm3Ut20I=",
-    "cargoHash": "sha256-ik0r3TS3rSmGh/Cg6GeJCfqbN7uRw7voGnKDnWBh/M4=",
-    "debHash": "sha256-Gak8fTAQ9tDnGCzR4Pk/7ss+OSF61MEGJ1VtuZFjBN4="
+    "version": "0.18.1",
+    "srcHash": "sha256-nNoZvhnGEFNmh780GtHoQ4jczs65laFRq7+bF4akXTg=",
+    "cargoHash": "sha256-IReMe4glJWfNEoLYLcL1GiahvjUSM60oEV576ATNII0=",
+    "debHash": "sha256-WYAcJO9b2vAaakZfDh1fWaujatHnI8uDMwSyLZjD+Qk="
   },
   "cadcraft": {
-    "version": "0.19.0",
-    "srcHash": "sha256-lBoRJzfSno4LNjB3900cjF89fSpugGxkJS50+o1DE10=",
-    "cargoHash": "sha256-T7kYm4i6yxF+FNYVxKF+Kvx4uol92isvEDNJRzfu/Nk=",
-    "debHash": "sha256-SHJMEkMoGLykGwTwBB0lup1Or8IvPNfP5QJxzUZPS+A="
+    "version": "0.20.1",
+    "srcHash": "sha256-VwytPvrzszX3a2Kvibu0luUhTXVNzhrEk049/0jnRP4=",
+    "cargoHash": "sha256-LgwdA0K8FhYvJFxXCNjm7y8m6A8qkayyMOgGFoxZS/E=",
+    "debHash": "sha256-jmrR9IfWzUTby3PNiO8e+1IlKiBxCU8sI6RopkGgb6o="
   },
   "gridcraft": {
-    "version": "0.18.0",
-    "srcHash": "sha256-fSWqYnyhNceNaFpvjZs9B4wlvrvCm9JQSSNu397MHVE=",
-    "cargoHash": "sha256-FURL0xFpzRx8mgM/sQFSJ2Z7dCmVKvf1kDMID7BUszA=",
-    "debHash": "sha256-3NCWpAiPGialjdCSCRtuhJR63OAZ5q36hKLe9Bl/ui4="
+    "version": "0.19.1",
+    "srcHash": "sha256-/dkhjj+BcL/+b/psYpRdO/vEG0zpiAt5fpIqkG7WLMw=",
+    "cargoHash": "sha256-vkNDu60fJy9GOqQSqZItees+XOmta1qB5x5ibm8nBuM=",
+    "debHash": "sha256-PpsJPuO+2LHwCOpWyNYOapaJDiQxe+K7uT5DHzydgRI="
   },
   "figcraft": {
-    "version": "0.17.0",
-    "srcHash": "sha256-XVQRR+/xw9QLDHq4DaciKhcLuCGnFj5k6J4jMs1NPQg=",
-    "cargoHash": "sha256-KbbpQNNtbKZXFL1POXAbk674vIsXMcYI3z9/baWPB7o=",
-    "debHash": "sha256-+gLpV/G9j5IGTGSKy/qW2u5tyHQkm9w06az/j7a48Yc="
+    "version": "0.18.0",
+    "srcHash": "sha256-pcDAp79Klnqa9s3ijWtHXNyC8VWl0NWVeQ7SIXqXbgg=",
+    "cargoHash": "sha256-mek8A0fatmfryNIZNBLBTQEnZWOqwMmv6lZEc+pJklc=",
+    "debHash": "sha256-D6c6iXkMDf4oP5dLI+eS7PH067fw6XTnXu+ObGGbnA0="
   }
 }
