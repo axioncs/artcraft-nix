@@ -24,10 +24,10 @@
     "debHash": "sha256-yR70e+xEmV2Zzljmx0ivn6arH/HBHenikOC4IxF22tE="
   },
   "pdfcraft": {
-    "version": "0.21.1",
-    "srcHash": "sha256-2X2ixtr7mxHRpfhcGghKUO7ib0SFBruBmQPIlTFZ8Ds=",
-    "cargoHash": "sha256-sjnRF9WVDRPrgEgwZEyVIEk3qq3Erkv9cBtlkgb52lc=",
-    "debHash": "sha256-6HuqDvY4vm6pe1IYg+kSMYASAoqA2+E1n5PNIUN74lM=",
+    "version": "0.22.0",
+    "srcHash": "sha256-6v1x0XPMBkeZfQviH0S9V1KG3jFNCbAAtFHkugtWZ2g=",
+    "cargoHash": "sha256-1cPcxGa8I25Heg8uzY4r3KwYgyPJEzkONjzDSIhythw=",
+    "debHash": "sha256-p+DngeVa3GM7aLQX7JhgEVzKosxjZYjxg64D5mpe3Ns=",
     "ciSkip": true
   },
   "effectcraft": {
